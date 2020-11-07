@@ -1,2 +1,2 @@
 
-![Painting](p5_Library/Assets/painting.PNG)
+![Painting](/Assets/painting.PNG)
