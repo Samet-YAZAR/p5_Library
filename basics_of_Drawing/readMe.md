@@ -2,4 +2,4 @@
 # Basics_of_Drawing
 
 
-![BASIC](Assets/2D_Priimitives.PNG)
+![BASIC](p5_Library/Assets/2D_Priimitives.PNG)
