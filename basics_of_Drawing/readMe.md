@@ -2,4 +2,4 @@
 # Basics_of_Drawing
 
 
-![BASIC](./Assets/basic.PNG)
+![BASIC](Assets/2D_Priimitives.PNG)
