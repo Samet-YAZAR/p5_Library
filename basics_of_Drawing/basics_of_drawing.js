@@ -4,7 +4,11 @@ function setup() {
 
 function draw() {
   background(220);
-  fill(100,50,150);
+  // IF needed here is functions to keep the shapes in the center.
+  // ellipseMode(CENTER);
+  // rectMode(CENTER);
+  // triangle(CENTER);
+  // line(CENTER);
 
 
   fill(100,50,0);
